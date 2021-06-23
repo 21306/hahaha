@@ -1,0 +1,33 @@
+{
+    "name": "禁忌怨婦",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "Turtle Logo": "github:mr-coxall/turtle-logo#v1.0.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.44",
+        "tag": "v1.4.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a22995c560b516a501328716333b8cc8caf7cc9c",
+        "target": "1.4.44",
+        "pxt": "6.12.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
